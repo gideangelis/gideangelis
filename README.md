@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giorgia De Angelis!</h1>
 <h3 align="center">A curious and passionate front-end developer student from Rome</h3>
 
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="avatar" align="right" width="400">
+
 - 🔭 I’m currently working on **a counter with JS Basics**
 
 - 🌱 I’m currently learning **Javascript Advanced**
