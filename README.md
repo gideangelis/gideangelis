@@ -3,7 +3,7 @@
 
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="avatar" align="right" width="400">
 
-- 🔭 I’m currently working on **a counter with JS Basics**
+- 🔭 I’m currently working on **a project with APIs!**
 
 - 🌱 I’m currently learning **Javascript and React**
 
