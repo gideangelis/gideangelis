@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **a counter with JS Basics**
 
-- 🌱 I’m currently learning **Javascript Advanced**
-
-- 💬 Ask me about **HTML&CSS**
+- 🌱 I’m currently learning **Javascript and React**
 
 - 📫 How to reach me **giorgiadeangelis96@gmail.com**
 
