@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **giorgiadeangelis96@gmail.com**
 
-- ⚡ Fun fact **My favorite food is: books!**
+- ⚡ **My favorite food is: books!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
